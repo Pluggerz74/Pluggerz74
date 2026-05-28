@@ -34,7 +34,7 @@ My goal is simple:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,vscode,lua,java" />
 
 </div>
 
@@ -60,7 +60,7 @@ Your Plug. Our Solution.
 ---
 
 📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=change2k&show_icons=true&hide_border=true&bg_color=000000&title_color=a855f7&icon_color=3b82f6&text_color=ffffff" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=change2k&layout=compact&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" /> </div>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=pluggerz74&show_icons=true&hide_border=true&bg_color=000000&title_color=a855f7&icon_color=3b82f6&text_color=ffffff" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluggerz74&layout=compact&hide_border=true&bg_color=000000&title_color=a855f7&text_color=ffffff" /> </div>
 
 ---
 
@@ -70,7 +70,7 @@ Your Plug. Our Solution.
 ---
 
 📫 Contact
-<div align="center"> <img src="https://img.shields.io/badge/Website-codingplugs.de-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" /> <img src="https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-change2k-111827?style=for-the-badge&logo=github&logoColor=white" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Website-codingplugs.de-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" /> <img src="https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-pluggerz74-111827?style=for-the-badge&logo=github&logoColor=white" /> </div>
 
 ---
 
