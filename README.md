@@ -34,7 +34,7 @@ My goal is simple:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,vscode,lua,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github,vscode,lua,java,python" />
 
 </div>
 
